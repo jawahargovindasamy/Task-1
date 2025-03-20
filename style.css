@@ -1,3 +1,160 @@
-body{
-    font-family: "Poppins", sans-serif;
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 10px 200px;
 }
+
+header .wrapper {
+  background-color: #fefcfb;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Volkhov", serif;
+}
+
+.logo img {
+  width: 19px;
+  height: 19px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #222222;
+}
+
+nav ul.login a {
+  color: #fd8d3a;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.btn.dark {
+  width: 160px;
+  height: 50px;
+  border: solid 1px #fd8d3a;
+  border-radius: 5px;
+  background-color: #fd8d3a;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+.hero-section {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+  gap: 10px;
+}
+
+.hero-section .left {
+  padding-top: 20px;
+}
+
+.hero-section .left a.btn.light {
+  text-decoration: none;
+  color: #fa7436;
+  border: #fa7436 solid 1px;
+  padding: 10px 20px;
+}
+
+.hero-section .left h1 {
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Volkhov", serif;
+}
+
+.left h1 span {
+  color: #fa7436;
+}
+
+.hero-section .left p {
+  font-size: 16px;
+  color: #666666;
+  padding-bottom: 50px;
+}
+
+.hero-section .right img {
+  height: 380px;
+  width: 380px;
+}
+
+.search-bar {
+  margin-bottom: 90px;
+}
+
+.search-content ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 20px;
+  gap: 10px;
+  list-style: none;
+}
+
+.search-content ul li a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #fa7436;
+}
+
+.search-content ul li p {
+  font-size: 12px;
+  color: #666666;
+  margin: 0;
+  padding: 0;
+}
+
+.page2 .content .sub-content h1{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Volkhov", serif;
+    text-align: center;
+}
+
+.page2 .content .sub-content h1 span{
+    color: #fa7436;
+}
+
+.page2 .content .sub-content p{
+    font-size: 16px;
+    color: #666666;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.flex-cards{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    padding-bottom: 50px;
+}
+
+.flex-cards .sign-up h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #222222;
+    padding: 0;
+    margin: 0;
+}
+
+.flex-cards .sign-up p{
+    font-size: 16px;
+    color: #666666;
+    padding-bottom: 20px;
+    margin: 0;
+    padding: 0;
+}
+
