@@ -183,7 +183,7 @@ nav ul.login a {
   position: relative;
 }
 
-.page2 .element{
+.page2 .element {
   position: absolute;
   top: -5px;
   right: 0px;
@@ -347,10 +347,10 @@ nav ul.login a {
 .page4 {
   padding-bottom: 50px;
   position: relative;
-  background-color: #FEFCFB;
+  background-color: #fefcfb;
 }
 
-.page4 .element{
+.page4 .element {
   position: absolute;
   left: 750px;
   top: -20px;
@@ -525,7 +525,7 @@ nav ul.login a {
   color: #fa7436;
 }
 
-.page6 .img_cards{
+.page6 .img_cards {
   display: flex;
   justify-content: space-around;
   gap: 10px;
@@ -537,7 +537,7 @@ nav ul.login a {
   height: 240px;
 }
 
-.page6 .img_cards .cards h3{
+.page6 .img_cards .cards h3 {
   font-size: 16px;
   font-weight: 600;
   color: #222222;
@@ -545,55 +545,55 @@ nav ul.login a {
   padding: 0 10px 0 0;
 }
 
-.page6 .img_cards .cards p{
+.page6 .img_cards .cards p {
   font-size: 14px;
   color: #999999;
   padding: 0;
   margin: 5px 0 0 0;
 }
 
-.page6 .slider{
+.page6 .slider {
   display: flex;
   justify-content: center;
 }
 
-footer .wrapper .subscribe{
-  background-color: #FA7436;
+footer .wrapper .subscribe {
+  background-color: #fa7436;
   border-radius: 10px;
   height: 350px;
   margin-bottom: 30px;
   position: relative;
 }
 
-footer .wrapper .subscribe .element{
+footer .wrapper .subscribe .element {
   position: absolute;
   top: 0;
   right: 0;
 }
 
-footer .wrapper .subscribe .element1{
+footer .wrapper .subscribe .element1 {
   position: absolute;
   bottom: -10px;
   left: 10px;
   height: 250px;
 }
 
-footer .wrapper .subscribe h1{
+footer .wrapper .subscribe h1 {
   font-family: "volkhov", serif;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 40px;
   padding-top: 50px;
   text-align: center;
 }
 
-footer .wrapper .subscribe .content{
+footer .wrapper .subscribe .content {
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
 }
 
-footer .wrapper .subscribe .content input{
+footer .wrapper .subscribe .content input {
   width: 600px;
   height: 60px;
   border: none;
@@ -603,77 +603,74 @@ footer .wrapper .subscribe .content input{
   font-size: 20px;
 }
 
-footer .wrapper .subscribe .content input::placeholder{
+footer .wrapper .subscribe .content input::placeholder {
   padding-left: 2px;
   font-size: 16px;
   color: #999999;
 }
 
-
-footer .wrapper .subscribe .content button{
+footer .wrapper .subscribe .content button {
   width: 130px;
   height: 40px;
-  color: #FFFFFF;
+  color: #ffffff;
   position: relative;
   left: -150px;
   cursor: pointer;
 }
 
-footer .wrapper .link-container{
+footer .wrapper .link-container {
   display: flex;
   justify-content: space-between;
   gap: 20px;
 }
 
-footer .wrapper .link-container .content .link{
+footer .wrapper .link-container .content .link {
   width: 254px;
 }
 
-footer .wrapper .link-container .content h3{
+footer .wrapper .link-container .content h3 {
   font-size: 20px;
   font-weight: 600;
   color: #222222;
   font-family: "Volkhov", serif;
 }
 
-footer .wrapper .link-container .content p{
+footer .wrapper .link-container .content p {
   font-size: 16px;
   color: #666666;
   padding: 0;
   margin: 0;
 }
 
-footer .wrapper .link-container .content .links ul{
+footer .wrapper .link-container .content .links ul {
   list-style: none;
   padding: 0;
   margin: 10px;
 }
 
-footer .wrapper .link-container .content .links ul li{
+footer .wrapper .link-container .content .links ul li {
   margin: 10px 0 0 0;
   padding: 0;
 }
 
-footer .wrapper .link-container .content .links ul li a{
+footer .wrapper .link-container .content .links ul li a {
   text-decoration: none;
   color: #666666;
   font-size: 16px;
 }
 
-
-footer .wrapper .link-container .content{
+footer .wrapper .link-container .content {
   display: flex;
   justify-content: space-between;
   gap: 20px;
 }
 
-footer .wrapper .copyright{
+footer .wrapper .copyright {
   display: flex;
   justify-content: space-between;
 }
 
-footer .wrapper .copyright p{
+footer .wrapper .copyright p {
   font-size: 16px;
   color: #666666;
 }
-
